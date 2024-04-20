@@ -14,14 +14,14 @@ function Main() {
             <Navbar />        
             <Landing />
             <About />
-            <Education />
             <Skills />
             <Experience />
             <Projects />
-            <Achievement />
+            {/* <Achievement /> */}
             <Services />
-            <Testimonials />
-            <Blog />
+            <Education />
+            {/* <Testimonials /> */}
+            {/* <Blog /> */}
             <Contacts />
             <Footer />
         </div>

@@ -11,10 +11,10 @@ export const achievementData = {
         },
         {
             id : 2,
-            title : 'AWS Certification',
+            title : 'Gainsight Spotlight Award',
             details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
+            date : 'Aug 20, 2020',
+            field : 'Development',
             image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
         },
         {
